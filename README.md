@@ -1,5 +1,4 @@
-Inline-style: 
-![alt text](https://90minutos.org/img/timothy-eberly-dTLlhgeEJWg-unsplash.jpg "Photo by Timothy Eberly on Unsplash")
+![Old movie reel](https://90minutos.org/img/timothy-eberly-dTLlhgeEJWg-unsplash.jpg "Photo by Timothy Eberly on Unsplash")
 
 # React Movie Search
 
