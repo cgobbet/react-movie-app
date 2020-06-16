@@ -62,6 +62,7 @@ small {
 }
 
 .title {
+    font-family: 'Metal Mania', cursive;    
     font-size: 4.4rem;
     text-align: center
 }
@@ -114,6 +115,8 @@ small {
 
 .card-list {
     margin-top: 4rem;
+    display: flex;
+    max-width: 100px;
 }
 
 .card {
