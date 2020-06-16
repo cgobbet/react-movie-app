@@ -10,3 +10,4 @@ apiKeys.*
 .DS_Store
 .DS_Store
 build/favicon_red.ico
+public/favicon_red.ico
