@@ -1,3 +1,6 @@
+font-family: 'Metal Mania', cursive;
+font-family: 'Roboto', sans-serif;
+
 .App {
   text-align: center;
 }
@@ -14,7 +17,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  font-family: 'Metal Mania', cursive;  
+  background-color: #8B0000;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
