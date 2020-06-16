@@ -1,5 +1,5 @@
-font-family: 'Metal Mania', cursive;
-font-family: 'Roboto', sans-serif;
+/* font-family: 'Metal Mania', cursive;
+font-family: 'Roboto', sans-serif; */
 
 .App {
   text-align: center;
@@ -17,8 +17,10 @@ font-family: 'Roboto', sans-serif;
 }
 
 .App-header {
-  font-family: 'Metal Mania', cursive;  
-  background-color: #8B0000;
+  font-family: 'Oswald', sans-serif;  
+  /* font-family: 'Metal Mania', cursive;   */
+  /* background-color: #781820; */
+  background-color: #191970;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -43,8 +45,10 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(244,244,244);
-    color: #333;
+    background-color: #191970;
+    /* background-color: #781820; */
+    color: #ffffff;
+    min-height: 600px;
 }
 
 p {
@@ -62,9 +66,11 @@ small {
 }
 
 .title {
-    font-family: 'Metal Mania', cursive;    
+    font-family: 'Oswald', sans-serif;    
+    /* font-family: 'Metal Mania', cursive;     */
     font-size: 4.4rem;
-    text-align: center
+    text-align: center;
+    color: "white";
 }
 
 .form {
